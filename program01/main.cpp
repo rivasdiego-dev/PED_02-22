@@ -12,7 +12,6 @@ int Summation (int i, int n, int x, int total); // Declaracion de la funcion
     n -> Límite de la suma
     x -> Numero base al que vamos a potenciar a i
     total -> Variable de almacenamiento para la sumatoria 
-
 */
 
 int main() {
