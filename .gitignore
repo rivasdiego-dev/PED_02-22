@@ -1,0 +1,12 @@
+
+# All files with .exe extension
+
+*.exe
+
+# All config files in directory 
+
+/.vscode
+
+# All files in any build directory
+
+*/build
