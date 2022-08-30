@@ -3,7 +3,6 @@
 using namespace std;
 
 void PrintTables (int x, int i); // Declaramos la funcion 
-
 /*
   Esta función será de tipo void, porque no necesitamos que devuelva
   un valor en específico cuando sea utilizada.
