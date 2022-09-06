@@ -9,4 +9,4 @@ Repositorio en donde subiré los códigos que veamos en los laboratorios como al
 ## Recursividad (Labos)
 
 ## Punteros (Meet semana 2)
-    Crear un registro de empleados, que tenga edad, nombre, departamento, y salario actual. Que el programa pueda modificar cualquiera de los parámetros mencionados.
+Crear un registro de empleados, que tenga edad, nombre, departamento, y salario actual. Que el programa pueda modificar cualquiera de los parámetros mencionados.
