@@ -10,8 +10,7 @@ struct employee {
 };
 typedef struct employee Employee;
 
-void PrintEmployee(employee *pointer);
-void ModifyEmployee(employee *pointer, employee employee, int option);
+void PrintEmployee(employee employee);
 
 int main () {
 
@@ -20,59 +19,40 @@ int main () {
     Employee E04632;
     Employee *pointer_to_employee;
 
-    E04612.age = 34; 
-    E04612.name = "Rolando Caceres";
+    E04612.age = 11; 
+    E04612.name = "Jesus Caceres";
     E04612.job = "IT";
-    E04612.salary = 462.28;
+    E04612.salary = 46228;
     
     E04622.age = 34; 
     E04622.name = "Fernanda Rosa";
     E04622.job = "Sales";
     E04622.salary = 668.22;
 
-    E04632.age = 34; 
+    E04632.age = 28; 
     E04632.name = "Armando Garcia";
     E04632.job = "RRHH";
     E04632.salary = 282.81;
 
+    PrintEmployee(E04612);
+    PrintEmployee(E04622);
+    PrintEmployee(E04632);
+
+    pointer_to_employee = &E04612;
+    pointer_to_employee -> age = 21;
+    (*pointer_to_employee).salary = 462.28;
+    PrintEmployee(E04612);
+
     return 0;
 }
 
-void PrintEmployee(employee *pointer, employee employee){
+void PrintEmployee(employee employee){
 
-    pointer = &employee;
-    cout << "\tNombre: " << pointer -> name << "\n";
-    cout << "\tEdad: " << pointer -> age << "\n";
-    cout << "\tDepartamento: " << (*pointer).job << "\n";
-    cout << "\tSalario: " << (*pointer).salary << "\n";
+    Employee *pEmployee = &employee;
+    cout << "Informacion del empleado:\n";
+    cout << "\tNombre: " << pEmployee -> name << "\n";
+    cout << "\tEdad: " << pEmployee -> age << "\n";
+    cout << "\tDepartamento: " << (*pEmployee).job << "\n";
+    cout << "\tSalario: " << (*pEmployee).salary << "\n\n";
 
-}
-void ModifyEmployee(employee *pointer, employee employee, int option){
-    
-    pointer = &employee;
-    
-    switch (option)
-    {
-    case 1:
-        cout << "Ingrese el nuevo nombre";
-        getline(cin, pointer-> name);
-        
-        break;
-
-    case 2:
-
-        break;
-
-    case 3:
-
-        break;
-
-    case 4:
-
-        break;
-    
-    default:
-        break;
-    }
-    
 }
