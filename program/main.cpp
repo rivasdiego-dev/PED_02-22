@@ -40,11 +40,39 @@ int main () {
 
 void PrintEmployee(employee *pointer, employee employee){
 
-    //TODO 
+    pointer = &employee;
+    cout << "\tNombre: " << pointer -> name << "\n";
+    cout << "\tEdad: " << pointer -> age << "\n";
+    cout << "\tDepartamento: " << (*pointer).job << "\n";
+    cout << "\tSalario: " << (*pointer).salary << "\n";
 
 }
 void ModifyEmployee(employee *pointer, employee employee, int option){
     
-    //TODO implement function
+    pointer = &employee;
+    
+    switch (option)
+    {
+    case 1:
+        cout << "Ingrese el nuevo nombre";
+        getline(cin, pointer-> name);
+        
+        break;
+
+    case 2:
+
+        break;
+
+    case 3:
+
+        break;
+
+    case 4:
+
+        break;
+    
+    default:
+        break;
+    }
     
 }
