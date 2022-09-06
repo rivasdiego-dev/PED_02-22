@@ -40,7 +40,7 @@ int main () {
 
 void PrintEmployee(employee *pointer, employee employee){
 
-    //TODO implement function
+    //TODO 
 
 }
 void ModifyEmployee(employee *pointer, employee employee, int option){
