@@ -7,3 +7,5 @@ Repositorio en donde subiré los códigos que veamos en los laboratorios como al
 ## Recursividad (Meet)
 
 ## Recursividad (Labos)
+
+## Punteros (Meet semana 2)
