@@ -16,4 +16,7 @@ Para ello deberá ingresar desde el teclado el valor de *x* y de *n*
 ### Programa 2
 La función recibe un número entero como argumento y debe devolver las tablas de multiplicar del uno al diez de dicho número.   
 
+### Programa 3
+La función recibe un número entero como argumento y debe devolver si es par o impar. Se requiere de una funcion auxiliar.
+
 ## Recursividad (Labos)
