@@ -17,6 +17,10 @@ Repositorio en donde subiré los códigos que veamos en los laboratorios como al
 
 ## Recursividad (Meet)
 
-## Recursividad (Labos)
+## Recursividad (Labos)  
 
-## Punteros (Meet semana 2)
+## Punteros (Meet semana 2)  
+
+## Conceptos de Estructuras Dinámicas (Meet semana 3)
+
+## Pilas (Meet semana 4)
