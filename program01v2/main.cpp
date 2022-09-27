@@ -14,20 +14,22 @@ using namespace std;
     {
         Tree element;
         struct node *next;
-    }; typedef struct node Node;
+    }; typedef struct node *Node;
     
 
     // Funciones
-    void NewStack();
-    node Pop();
-    void Push();
-    bool Empty();
-    node Top();
+    void NewStack(Node *s);
+    tree Pop(Node *s);
+    void Push(Node *s, Tree tree);
+    bool Empty(Node *s);
+    tree Top(Node *s);
 
 
     // Main
     int main () {
 
+        Node stackOfTrees;
+        NewStack(&stackOfTrees);
 
         
         return 0;
@@ -35,11 +37,58 @@ using namespace std;
 
 
     // Funciones
-    void NewStack();
-    node Pop();
-    void Push();
-    bool Empty();
-    node Top();
+    void NewStack(Node *s)
+    {
+        *s = NULL;
+    }
 
-    // https://github.com/carlosxmerca/PED2022/blob/master/Stack/donuts_stack.png
+    tree Pop(Node *s)
+    {
+        if (!Empty(s))
+        {
+            struct node *aNode = *s;
+            Tree tree = (*s)->element;
+
+            *s = (*s)->next;
+            delete aNode;
+            return tree;
+        }
+
+        else
+        {
+            return {{""},{""},{0}};
+        }
+    }
     
+    bool Empty(Node *s)
+    {
+        return *s == NULL;
+    }
+    
+    void Push(Node *s, Tree tree)
+    {
+        struct node *aNode = new struct node;
+        
+        aNode->element = tree;
+        aNode->next = *s;
+
+        *s = aNode;
+
+    }
+    
+    tree Top(Node *s)
+    {
+        if(!Empty(s))
+        {
+            return (*s)->element;
+        }
+        else
+        {
+            return {{""},{""},{0}};
+        }
+    }
+
+
+
+    
+
