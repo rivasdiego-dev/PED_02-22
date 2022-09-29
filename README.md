@@ -23,4 +23,10 @@ Repositorio en donde subiré los códigos que veamos en los laboratorios como al
 
 ## Conceptos de Estructuras Dinámicas (Meet semana 3)
 
-## Pilas (Meet semana 4)
+## Pilas (Meet semana 4)  
+
+## Colas (Meet semana 5)  
+
+## Listas (Meet semana 5)  
+
+## Árboles (Meet semana 6)  
