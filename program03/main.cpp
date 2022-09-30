@@ -3,6 +3,8 @@
 
 using namespace std;
 
+    // EJEMPLO DE ARBOLES UTILIZANDO LA LIBRERIA STACK
+
     int main ()
     {
         struct tree
@@ -35,7 +37,7 @@ using namespace std;
 
             stackOfTrees.pop(); // Y eliminamos de la pila el valor impreso
         }
-        
+
         stackOfTrees.empty() ? cout << "\nEmpty!\n": cout << "\nThere's something in the stack...\n";
 
         return 0;
