@@ -13,6 +13,8 @@ Repositorio en donde subiré los códigos que veamos en los laboratorios como al
 
 * [Listas](https://docs.google.com/presentation/d/1uSpwzwZ9gDAqfG4Uezs6SfT1fStnrNt8sABlcuCtRFY/edit?usp=sharing)  
 
+* [Colas](https://docs.google.com/presentation/d/1r2VQzpmazTG-HfP0d2ikLehPKSLXPRSn6Ulk2Vqw1A8/edit?usp=sharing)  
+
 ## Trabajo con git y GitHub
 
 ## Recursividad (Meet)
