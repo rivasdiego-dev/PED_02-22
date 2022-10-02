@@ -29,6 +29,8 @@ Repositorio en donde subiré los códigos que veamos en los laboratorios como al
 
 ### Criterios del laboratorio (CP4)
 
+- [Como obtener el tamaño de una cola](https://github.com/carlosxmerca/PED2022/blob/master/Stack/Size/stack_size.md)
+
 | Criterio | Porcentaje |
 |   ---    |    :---    |
 |Dominio de git (Commits, subir cambios al repositorio, clonar) |5%|
