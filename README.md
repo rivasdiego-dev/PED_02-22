@@ -27,6 +27,14 @@ Repositorio en donde subiré los códigos que veamos en los laboratorios como al
 
 ## Colas (Meet semana 5)  
 
-## Listas (Meet semana 5)  
+### Criterios del laboratorio (CP4)
 
-## Árboles (Meet semana 6)  
+| Criterio | Porcentaje |
+|   ---    |    :---    |
+|Dominio de git (Commits, subir cambios al repositorio, clonar) |5%|
+|Indentación del código fuente                                  |5%|
+|Implementa correctamente una cola                              |25%|
+|Uso correcto de punteros                                       |25%|
+|El programa se ejecuta sin errores                             |10%|
+|Maneja el struct correctamente                                 |15%|
+|El programa muestra el resultado esperado                      |15%|
