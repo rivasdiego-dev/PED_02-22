@@ -27,9 +27,17 @@ Repositorio en donde subiré los códigos que veamos en los laboratorios como al
 
 ## Colas (Meet semana 5)  
 
-### Criterios del laboratorio (CP4)
+### Laboratorio (CP4) 
 
 - [Como obtener el tamaño de una cola](https://github.com/carlosxmerca/PED2022/blob/master/Stack/Size/stack_size.md)
+
+#### Program 01
+Trabajar el ejercicio número 1 de la guía, pero los carros deberán tener color, placa y precio. Además del menú realizar una función que muestre cuántos carros valen más de $10,000.00.  
+
+#### Program 02  
+Trabajar el ejercicio número 2 de la guía, pero los clientes deberán tener nombre, cantidad a pagar y DUI. Además del menú (Insertar, Eliminar o Mostrar), realizar una función que muestre el ciudadano que más va a pagar más.
+
+#### Criterios de evaluación
 
 | Criterio | Porcentaje |
 |   ---    |    :---    |
