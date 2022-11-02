@@ -15,6 +15,8 @@ Repositorio en donde subiré los códigos que veamos en los laboratorios como al
 
 * [Colas](https://docs.google.com/presentation/d/1r2VQzpmazTG-HfP0d2ikLehPKSLXPRSn6Ulk2Vqw1A8/edit?usp=sharing)
 
+* [POO](https://docs.google.com/presentation/d/1KytVTzYyaLLFb3DgnTtL-mwn7KXRf3N_OmMYFxR82SY/edit?usp=sharing)
+
 ## Trabajo con git y GitHub
 
 ## Recursividad (Meet)
