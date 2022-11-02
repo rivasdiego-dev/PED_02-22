@@ -32,7 +32,8 @@ Repositorio en donde subiré los códigos que veamos en los laboratorios como al
 
 ## Listas (Meet semana 5)  
 
-## Árboles (Meet semana 6)  
+## Árboles (Meet semana 6)
+  
 ## Recursividad (Labos)
 
 ## Punteros (Meet semana 2)
