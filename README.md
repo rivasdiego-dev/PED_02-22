@@ -35,7 +35,7 @@ Repositorio en donde subiré los códigos que veamos en los laboratorios como al
 
 ## Árboles (Meet semana 6)
 
-## CP6
+## Meet Semana 7
 ### Grupo 21
     - Crear un programa de Árbol Binario de Búsqueda con datos tipo “double”, los datos del árbol se deberán ingresar a partir de un arreglo quemado. 
     - Deberá crear una función para mostrar ambos subárboles en  cualquiera de los 3 recorridos (InOrder, PreOrder y PostOrder).
