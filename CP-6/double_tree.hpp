@@ -1,5 +1,4 @@
 #include <iostream>
-#include <queue>
 
 using namespace std;
 
@@ -58,6 +57,28 @@ void print_tree(Node *root, int counter)
 void print_tree(Node *root){
     int counter = 0;
     print_tree(root, counter);
+    cout << "\n";
     return;
 }
 
+void inorder_traversal(Node* tree){
+    if (is_tree_empty(tree))
+        return;
+    inorder_traversal(tree->left_child);
+    cout << tree->element << ", ";
+    inorder_traversal(tree->right_child);
+}
+void preorder_traversal(Node* tree){
+    if (is_tree_empty(tree))
+        return;
+    cout << tree->element << ", ";
+    preorder_traversal(tree->left_child);
+    preorder_traversal(tree->right_child);
+}
+void postorder_traversal(Node* tree){
+    if (is_tree_empty(tree))
+        return;
+    postorder_traversal(tree->left_child);
+    postorder_traversal(tree->right_child);
+    cout << tree->element << ", ";
+}
