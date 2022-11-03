@@ -37,11 +37,10 @@ Repositorio en donde subiré los códigos que veamos en los laboratorios como al
 
 ## Meet Semana 7
 ### Grupo 21
-    - Crear un programa de Árbol Binario de Búsqueda con datos tipo “double”, los datos del árbol se deberán ingresar a partir de un arreglo quemado. 
-    - Deberá crear una función para mostrar ambos subárboles en  cualquiera de los 3 recorridos (InOrder, PreOrder y PostOrder).
-    - Deberá crear una función que devuelva el menor dato que se encuentra en el árbol.
+    Crear un programa de Árbol Binario de Búsqueda con datos tipo “double”, los datos del árbol se deberán ingresar a partir de un arreglo quemado. 
+    Deberá crear una función para mostrar: el árbol completo. Y el subárbol izquierdo o derecho, en los 2 de los 3 recorridos (InOrder, PreOrder y PostOrder).
+    Deberá crear una función que devuelva el menor dato que se encuentra en el árbol.
+
 ### Grupo 22
-    - Crear un programa de Árbol Binario de Búsqueda con datos tipo “int”, los datos del árbol se deberán ingresar a partir de un arreglo ingresado por el usuario. 
-    - Deberá crear una función para mostrar el subárbol izquierdo o derecho en los 2 de los 3 recorridos (InOrder, PreOrder y PostOrder).
-    - Además deberá crear una función que devuelva el dato mayor en el árbol.
+
 
