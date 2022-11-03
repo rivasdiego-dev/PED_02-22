@@ -10,7 +10,7 @@ struct node
 };
 typedef struct node Node;
 
-Node* CreateNode(int data){
+Node* create_node(int data){
     Node* p__node;
     p__node->left_child = NULL;
     p__node->right_child = NULL;
