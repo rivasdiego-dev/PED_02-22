@@ -36,7 +36,8 @@ Dado un numero N, multiplicar todos los numeros desde 1 hasta N con una función
 Crear una función recursiva que reciba dos números enteros A y B, y retorne el resultado de elevar el número A a la potencia B
  
 
-## Punteros (Meet semana 2)  
+## Punteros (Meet semana 2)
+Crear un registro de empleados, que tenga edad, nombre, departamento, y salario actual. Que el programa pueda modificar cualquiera de los parámetros mencionados.
 
 ## Conceptos de Estructuras Dinámicas (Meet semana 3)
 
