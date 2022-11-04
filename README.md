@@ -2,9 +2,13 @@
 
 Repositorio en donde subiré los códigos que veamos en los laboratorios como algunos ejercicios que se verán en meet durante la materia de programación de estructuras dinamicas, el ciclo 02 del 2022.  
 
-* [Jamboard](https://jamboard.google.com/d/1nE-8CDzLgh684mtkqC3uL0t_rzik2n73QyR0m_NBs-E/edit?usp=sharing)  
+## [Jamboard](https://jamboard.google.com/d/1nE-8CDzLgh684mtkqC3uL0t_rzik2n73QyR0m_NBs-E/edit?usp=sharing)  
 
+## Recursos adicionales
+* [Resolver conflictos de merge](https://www.youtube.com/watch?v=xNVM5UxlFSA)  
+* [Rebase vs Merge](https://www.youtube.com/watch?v=f1wnYdLEpgI)  
 
+## Presentaciones
 * [Punteros y cadenas](https://docs.google.com/presentation/d/1Wi_Ljwp70qR4dsbtgx8Teu5x2NgzQvwIzB9Hb5yeJxE/edit?usp=sharing)  
 * [Estructuras, Uniones y Clases](https://docs.google.com/presentation/d/1FvMaIOqXZTo7DgSQ3HIgljf_oq6WjcdEPxoXpYivCK4/edit?usp=sharing)  
 * [Recursión](https://docs.google.com/presentation/d/1glNzigEj7U0CqaIdsmm1thxebB_enU9s2eE2W1CSAtY/edit?usp=sharing)  
