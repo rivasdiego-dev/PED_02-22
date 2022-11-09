@@ -41,7 +41,7 @@ Repositorio en donde subiré los códigos que veamos en los laboratorios como al
 Crear un programa de Árbol Binario de Búsqueda con datos tipo “double”, 
 los datos del árbol se deberán ingresar a partir de un arreglo quemado. 
 
-Deberá crear una función para mostrar: el árbol completo. Y el subárbol
+Deberá crear funciónes para mostrar: el árbol completo Y el subárbol
  izquierdo o derecho, en los 2 de 3 recorridos (InOrder, PreOrder y PostOrder).
 
 Deberá crear una función que devuelva el menor dato que se encuentra en el árbol.
@@ -52,7 +52,7 @@ Deberá crear una función que devuelva el menor dato que se encuentra en el ár
 Crear un programa de Árbol Binario de Búsqueda con datos tipo “int”, 
 los datos del árbol se deberán ingresar a partir de un arreglo ingresado por el usuario. 
 
-Deberá crear una función para mostrar: el árbol completo, 
+Deberá crear funciónes para mostrar: el árbol completo, y  
 en  cualquiera de los 3 recorridos (InOrder, PreOrder y PostOrder).
 
 Además deberá crear una función que devuelva mayor dato en el árbol.
