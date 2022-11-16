@@ -26,7 +26,6 @@ void book::print_info(){
     cout << "\nID: " << this->ID;
 }
 
-
 book a_book1 = book("La Odisea", "Homero", 1684);
 book a_book2 = book("La Iliada", "Homero", 4875);
 book a_book3 = book("Edipo Rey", "Sofocles", 4862);
