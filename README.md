@@ -71,6 +71,33 @@ Trabajar el ejercicio número 2 de la guía, pero los clientes deberán tener no
 
 #### Criterios de evaluación
 
+### meet-Semana7
+## Árboles (Meet semana 6)
+
+## Meet Semana 7
+### Grupo 21
+``` c
+Crear un programa de Árbol Binario de Búsqueda con datos tipo “double”, 
+los datos del árbol se deberán ingresar a partir de un arreglo quemado. 
+
+Deberá crear funciónes para mostrar: el árbol completo Y el subárbol
+ izquierdo o derecho, en los 2 de 3 recorridos (InOrder, PreOrder y PostOrder).
+
+Deberá crear una función que devuelva el menor dato que se encuentra en el árbol.
+```
+
+### Grupo 22
+```c
+Crear un programa de Árbol Binario de Búsqueda con datos tipo “int”, 
+los datos del árbol se deberán ingresar a partir de un arreglo ingresado por el usuario. 
+
+Deberá crear funciónes para mostrar: el árbol completo, y  
+en  cualquiera de los 3 recorridos (InOrder, PreOrder y PostOrder).
+
+Además deberá crear una función que devuelva mayor dato en el árbol.
+```
+
+=======
 | Criterio | Porcentaje |
 |   ---    |    :---    |
 |Dominio de git (Commits, subir cambios al repositorio, clonar) |5%|
