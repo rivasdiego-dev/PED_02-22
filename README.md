@@ -13,13 +13,44 @@ Repositorio en donde subiré los códigos que veamos en los laboratorios como al
 
 * [Listas](https://docs.google.com/presentation/d/1uSpwzwZ9gDAqfG4Uezs6SfT1fStnrNt8sABlcuCtRFY/edit?usp=sharing)  
 
+* [Colas](https://docs.google.com/presentation/d/1r2VQzpmazTG-HfP0d2ikLehPKSLXPRSn6Ulk2Vqw1A8/edit?usp=sharing)
+
+* [POO](https://docs.google.com/presentation/d/1KytVTzYyaLLFb3DgnTtL-mwn7KXRf3N_OmMYFxR82SY/edit?usp=sharing)
+
 ## Trabajo con git y GitHub
 
 ## Recursividad (Meet)
 
-## Recursividad (Labos)  
+### Programa 1
+Se le pide construir una función recursiva la cual le permita calcular el valor de la siguiente sumatoria:   
 
-## Punteros (Meet semana 2)  
+![sumatoria](https://i.imgur.com/kuXHZCL.png)  
+
+Para ello deberá ingresar desde el teclado el valor de *x* y de *n*
+
+### Programa 2
+La función recibe un número entero como argumento y debe devolver las tablas de multiplicar del uno al diez de dicho número.   
+
+### Programa 3
+La función recibe un número entero como argumento y debe devolver si es par o impar. Se requiere de una funcion auxiliar.
+
+## Recursividad (Labos)
+
+### Programa 1  
+Consiste en ingresar un arreglo determinado de numeros y con una función recursiva obtener el promedio de dichos numeros
+
+### Programa 2  
+Dado un numero N, sumar todos los numeros desde 1 hasta N con una función recursiva
+
+### Programa 3  
+Dado un numero N, multiplicar todos los numeros desde 1 hasta N con una función recursiva
+
+### Programa 4  
+Crear una función recursiva que reciba dos números enteros A y B, y retorne el resultado de elevar el número A a la potencia B
+ 
+
+## Punteros (Meet semana 2)
+Crear un registro de empleados, que tenga edad, nombre, departamento, y salario actual. Que el programa pueda modificar cualquiera de los parámetros mencionados.
 
 ## Conceptos de Estructuras Dinámicas (Meet semana 3)
 
@@ -29,6 +60,7 @@ Repositorio en donde subiré los códigos que veamos en los laboratorios como al
 
 ### Laboratorio (CP4) 
 
+## meet-Semana5
 - [Como obtener el tamaño de una cola](https://github.com/carlosxmerca/PED2022/blob/master/Stack/Size/stack_size.md)
 
 #### Program 01
