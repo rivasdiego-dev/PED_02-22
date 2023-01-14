@@ -21,9 +21,36 @@ Repositorio en donde subiré los códigos que veamos en los laboratorios como al
 
 ## Recursividad (Meet)
 
-## Recursividad (Labos)  
+### Programa 1
+Se le pide construir una función recursiva la cual le permita calcular el valor de la siguiente sumatoria:   
 
-## Punteros (Meet semana 2)  
+![sumatoria](https://i.imgur.com/kuXHZCL.png)  
+
+Para ello deberá ingresar desde el teclado el valor de *x* y de *n*
+
+### Programa 2
+La función recibe un número entero como argumento y debe devolver las tablas de multiplicar del uno al diez de dicho número.   
+
+### Programa 3
+La función recibe un número entero como argumento y debe devolver si es par o impar. Se requiere de una funcion auxiliar.
+
+## Recursividad (Labos)
+
+### Programa 1  
+Consiste en ingresar un arreglo determinado de numeros y con una función recursiva obtener el promedio de dichos numeros
+
+### Programa 2  
+Dado un numero N, sumar todos los numeros desde 1 hasta N con una función recursiva
+
+### Programa 3  
+Dado un numero N, multiplicar todos los numeros desde 1 hasta N con una función recursiva
+
+### Programa 4  
+Crear una función recursiva que reciba dos números enteros A y B, y retorne el resultado de elevar el número A a la potencia B
+ 
+
+## Punteros (Meet semana 2)
+Crear un registro de empleados, que tenga edad, nombre, departamento, y salario actual. Que el programa pueda modificar cualquiera de los parámetros mencionados.
 
 ## Conceptos de Estructuras Dinámicas (Meet semana 3)
 
@@ -31,8 +58,20 @@ Repositorio en donde subiré los códigos que veamos en los laboratorios como al
 
 ## Colas (Meet semana 5)  
 
-## Listas (Meet semana 5)  
+### Laboratorio (CP4) 
 
+## meet-Semana5
+- [Como obtener el tamaño de una cola](https://github.com/carlosxmerca/PED2022/blob/master/Stack/Size/stack_size.md)
+
+#### Program 01
+Trabajar el ejercicio número 1 de la guía, pero los carros deberán tener color, placa y precio. Además del menú realizar una función que muestre cuántos carros valen más de $10,000.00.  
+
+#### Program 02  
+Trabajar el ejercicio número 2 de la guía, pero los clientes deberán tener nombre, cantidad a pagar y DUI. Además del menú (Insertar, Eliminar o Mostrar), realizar una función que muestre el ciudadano que más va a pagar más.
+
+#### Criterios de evaluación
+
+### meet-Semana7
 ## Árboles (Meet semana 6)
 
 ## Meet Semana 7
@@ -58,5 +97,13 @@ en  cualquiera de los 3 recorridos (InOrder, PreOrder y PostOrder).
 Además deberá crear una función que devuelva mayor dato en el árbol.
 ```
 
-
-
+=======
+| Criterio | Porcentaje |
+|   ---    |    :---    |
+|Dominio de git (Commits, subir cambios al repositorio, clonar) |5%|
+|Indentación del código fuente                                  |5%|
+|Implementa correctamente una cola                              |25%|
+|Uso correcto de punteros                                       |25%|
+|El programa se ejecuta sin errores                             |10%|
+|Maneja el struct correctamente                                 |15%|
+|El programa muestra el resultado esperado                      |15%|
