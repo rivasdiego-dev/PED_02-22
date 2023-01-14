@@ -54,6 +54,20 @@ Crear un registro de empleados, que tenga edad, nombre, departamento, y salario 
 
 ## Conceptos de Estructuras Dinámicas (Meet semana 3)
 
+## Pilas (Meet semana 4)
+
+### Criterios del laboratorio (CP3)
+
+| Criterio | Porcentaje |
+|   ---    |    ---:    |
+|Dominio de git (Commits, subir cambios al repositorio, clonar) |5%|
+|Indentación del código fuente                                  |5%|
+|Implementa correctamente una pila                              |25%|
+|Uso correcto de punteros                                       |25%|
+|El programa se ejecuta sin errores                             |10%|
+|Maneja el struct correctamente                                 |15%|
+|El programa muestra el resultado esperado                      |15%|
+=======
 ## Pilas (Meet semana 4)  
 
 ## Colas (Meet semana 5)  
